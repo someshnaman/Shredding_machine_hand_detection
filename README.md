@@ -1,7 +1,7 @@
 
 # Shredding_machine_hand_detection
 
->### **Problem Shredding Machine**
+>### **Problem Statement**
 ### Shredding Machine
 ![alt text](https://github.com/someshnaman/Shredding_machine_hand_detection/blob/master/test_images/img1.jpg?raw=true)
 The Process of tearing or cutting something into shreds(pieces) is known as **Shredding**.
